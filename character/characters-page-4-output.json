@@ -1,0 +1,22 @@
+{
+  "data": {
+    "characters": {
+      "results": [
+        {
+          "id": "61",
+          "name": "Campaign Manager Morty",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/61.jpeg"
+        },
+        {
+          "id": "62",
+          "name": "Canklanker Thom",
+          "status": "Dead",
+          "image": "https://rickandmortyapi.com/api/character/avatar/62.jpeg"
+        }
+        // Additional characters here
+      ]
+    }
+  }
+}
+

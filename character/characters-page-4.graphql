@@ -1,0 +1,11 @@
+query GetCharactersPage4 {
+  characters(page: 4) {
+    results {
+      id
+      name
+      status
+      image
+    }
+  }
+}
+

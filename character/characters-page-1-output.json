@@ -1,0 +1,22 @@
+{
+  "data": {
+    "characters": {
+      "results": [
+        {
+          "id": "1",
+          "name": "Rick Sanchez",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/1.jpeg"
+        },
+        {
+          "id": "2",
+          "name": "Morty Smith",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/2.jpeg"
+        }
+        // Additional characters here
+      ]
+    }
+  }
+}
+
